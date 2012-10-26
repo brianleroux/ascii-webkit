@@ -1,6 +1,6 @@
 {
   "name": "ascii-webkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A retro ascii renderer for WebKit.",
   "main": "ascii-webkit.js",
   "dependencies": {

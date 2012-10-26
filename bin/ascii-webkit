@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+require('./../ascii-webkit.js')(process.argv[2])

@@ -1,0 +1,26 @@
+{
+  "name": "ascii-webkit",
+  "version": "1.0.0",
+  "description": "A retro ascii renderer for WebKit.",
+  "main": "ascii-webkit.js",
+  "dependencies": {
+    "phantom": "~0.3.5",
+    "picture-tube": "~0.0.4"
+  },
+  "bin":{"ascii-webkit": "./bin/ascii-webkit"},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brianleroux/ascii-webkit"
+  },
+  "keywords": [
+    "webkit",
+    "ascii",
+    "retro"
+  ],
+  "author": "brianleroux",
+  "license": "WTFPL"
+}
